@@ -1,0 +1,6 @@
+yosh;240000
+juana;250000
+Eric;260000
+mario;230000
+luigi;4000
+evellyn;190000
